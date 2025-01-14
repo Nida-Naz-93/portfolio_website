@@ -1,4 +1,4 @@
-name: linting-workflow
+name: portfolio_website
 on: 
   push:
     branch: 
